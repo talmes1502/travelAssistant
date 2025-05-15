@@ -1,0 +1,80 @@
+Welcome to your Travel Assistant!
+I'm here to help you plan you next amazing trip
+
+Ask me anything (or type 'exit' to quit):
+find flight from madrid to paris in may 18
+
+Assistant: Here are flights from Madrid to Paris on 2025-05-18:
+- TP: 99.90 USD | MAD → LIS at 2025-05-18T16:20:00
+- TP: 99.90 USD | MAD → LIS at 2025-05-18T13:35:00
+- TP: 99.90 USD | MAD → LIS at 2025-05-18T07:40:00
+- TP: 99.90 USD | MAD → LIS at 2025-05-18T13:35:00
+- TP: 99.90 USD | MAD → LIS at 2025-05-18T11:05:00
+
+/// this list is given from a flight api
+----------------------------------------------------------------------------------------------------------------------
+
+
+Ask me anything (or type 'exit' to quit):
+i will be in paris on may 18 for a week with my wife, what to pack?
+
+Assistant: Paris in May can be quite lovely! Given the expected temperatures between 9.5°C and 22.1°C, I suggest packing for a mix of cooler mornings and warmer afternoons. Here's a practical packing list for you and your wife:
+
+**Essentials:**
+
+* 3-4 tops or blouses (lightweight, breathable fabrics)
+* 2-3 pairs of pants or trousers (comfortable, versatile options)
+* 1-2 dresses or skirts (optional, but perfect for a Parisian evening stroll)
+* 1-2 light jackets or sweaters (for cooler mornings and evenings)
+* Undergarments and socks
+* A warm coat or jacket (it can get chilly in the mornings, especially around the Eiffel Tower)
+
+**Comfortable Shoes:**
+
+* 1 pair of comfortable walking shoes or sneakers
+* 1 pair of dress shoes or nicer sandals for evening events
+
+**Toiletries:**
+
+* Toothbrush, toothpaste, and dental floss
+* Deodorant, shampoo, conditioner, and body wash
+* Razor and shaving cream (if applicable)
+* Hairbrush or comb
+* Makeup and makeup remover (if applicable)
+
+**Electronics:**
+
+* Smartphone and charger
+* Laptop and charger (if necessary)
+* Camera and charger (if you're an avid photographer)
+* Portable charger (a good idea, especially if you plan on taking a lot of photos)
+
+**Miscellaneous:**
+
+* Reusable water bottle
+* Umbrella or raincoat (Paris can be rainy, even in the spring)
+* Snacks (especially if you have specific dietary needs or preferences)
+* Guidebook, map, or downloaded city guide on your smartphone
+* Pocket change in euros for when you arrive
+
+**Additional Tips:**
+
+* Pack layers, as the temperature can fluctuate significantly throughout the day.
+* Consider packing clothes that can be easily mixed and matched to create multiple outfits.
+* Don't forget to check the dress code for any specific events or restaurants you plan on visiting.
+* Leave some extra space in your luggage for souvenirs and shopping!
+
+Enjoy your time in Paris with your wife!
+
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+User: What are the top attractions in Barcelona?
+Assistant: Here are three must-see places to visit in Barcelona:
+
+1. La Sagrada Família: Antoni Gaudí's iconic cathedral, a UNESCO World Heritage Site, is a masterpiece of Gothic and Art Nouveau architecture.
+2. Park Güell: Another iconic Gaudí landmark, this public park features stunning mosaics, twisting stone columns, and breathtaking city views.
+3. La Rambla and Barceloneta Beach: Experience the vibrant energy of Barcelona's famous pedestrian street, lined with street performers, cafes, and shops, and enjoy the beautiful beaches and seafood restaurants in the nearby Barceloneta neighborhood.
+
+Enjoy your trip to Barcelona!

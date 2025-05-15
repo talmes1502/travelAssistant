@@ -1,0 +1,10 @@
+prompt_classification_topics:
+  - 'general travel'
+  - 'destination'
+  - 'packing'
+  - 'attractions'
+  - 'flights'
+
+flights_api_cred:
+  CLIENT_ID: "e4JH1KJ69laWoCJhYnRlAzODABr5zx6e"
+  CLIENT_SECRET: "7MidqAxEFjM23lcg"
