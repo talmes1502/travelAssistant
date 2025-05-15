@@ -1,25 +1,35 @@
 intent_and_entities_prompt = """
 You are a travel assistant that extracts structured information from user questions.
 
-Task:
-1. Classify the intent as one of: {topics_list}. Possible topics: destination, packing, attractions, flights, general travel.
-2. Extract destination city (if mentioned).
-3. Extract origin city (if mentioned).
-4. Extract trip duration (number of days) if mentioned.
-5. Extract departure date (if mentioned), in YYYY-MM-DD format.
+##Task:
+1. **Classify the intent** as one of: {topics_list}. Possible topics: destination, packing, attractions, flights, general travel.
+2. **Extract destination city** (if mentioned).
+3. **Extract origin city** (if mentioned).
+4. **Extract trip duration** (number of days) if mentioned.
+5. **Extract departure date** (if mentioned), in YYYY-MM-DD format.
 
 
-Respond in JSON format like this:
+##Response Format:
+Alaways Respond in **JSON** format, the following key values:
+intent: One of {topics_list}
+origin: Where does the user travels from
+destination: Where does the user travels to
+date: when the user travels from
+duration: how long the user travels to
+
+for example query:
+- User: "I want to fly from paris to madrid for a week on may 21 with my lovely wife"
+- Output:
 {{
   "intent": "flights",
-  "origin": "Tel Aviv",
-  "destination": "Paris",
-  "date": "2025-06-10",
-  "duration": null
+  "origin": "Paris",
+  "destination": "Madrid",
+  "date": "2025-05-21",
+  "duration": "week"
 }}
 
 Now extract the information for this user input:
-User: {user_input}
+**User**: {user_input}
 """
 
 destination_prompt = """
