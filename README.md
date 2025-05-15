@@ -29,7 +29,7 @@
 ## Prompt Engineering Notes
 - One-shot JSON extraction for intent + entities.
 - Chain-of-thought for destination reasoning.
-- External API data blended contextually.
+- External API data blended contextually - in packing, the LLM will choose weather-api if possible.
 
 ## Future Improvements:
 - Conversation to be able to handle multiple intents, how will be done?
